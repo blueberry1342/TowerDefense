@@ -1,0 +1,36 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Images/magicianLV1.jpg</file>
+        <file>Images/magicianLV2.jpg</file>
+        <file>Images/magicianLV3.jpg</file>
+        <file>Images/map0.png</file>
+        <file>Images/0.jpg</file>
+        <file>Images/1.jpg</file>
+        <file>Images/2.jpg</file>
+        <file>Images/3.jpg</file>
+        <file>Images/4.jpg</file>
+        <file>Images/5.jpg</file>
+        <file>Images/6.jpg</file>
+        <file>Images/7.jpg</file>
+        <file>Images/8.jpg</file>
+        <file>Images/9.jpg</file>
+        <file>Images/10.jpg</file>
+        <file>Images/cartoonLV1.jpg</file>
+        <file>Images/cartoonLV2.png</file>
+        <file>Images/cartoonLV3.jpg</file>
+        <file>Images/blueyesLV1.jpg</file>
+        <file>Images/blueyesLV2.png</file>
+        <file>Images/blueyesLV3.png</file>
+        <file>Images/question.png</file>
+        <file>Images/blueyesLV3.jpg</file>
+        <file>Images/HealingKuribo.png</file>
+        <file>Images/Kuribo.png</file>
+        <file>Images/flyingKuribo2.png</file>
+        <file>Images/bullet1.png</file>
+        <file>Images/bullet2.png</file>
+        <file>Images/bullet3.png</file>
+        <file>Images/bullet4.png</file>
+        <file>Images/stream.jpg</file>
+        <file>Images/bullet5.png</file>
+    </qresource>
+</RCC>
