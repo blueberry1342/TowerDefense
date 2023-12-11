@@ -9,7 +9,7 @@ int main(int argc, char *argv[])
 {
     QApplication a(argc, argv);
     Game w;
-    w.setWindowTitle("小声举报宇哥，他说大作业不是很难写");
+    w.setWindowTitle("TowerDefense");
     w.show();
 
 
